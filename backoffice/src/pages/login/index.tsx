@@ -70,7 +70,7 @@ const Login = (props: any) => {
       <div className="card card-outline card-primary">
         <div className="card-header text-center">
           <div className="h1">
-            <b>User Management</b>
+            <b>PGI Data Test</b>
           </div>
         </div>
         <div className="card-body">
