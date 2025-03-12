@@ -14,6 +14,7 @@ const Header = () => {
     Cookies.remove("user");
     router.push("/login");
 
+    alert('Logout is success')
     setTimeout(() => {
       window.location.reload();
     }, 300);
